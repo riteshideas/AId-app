@@ -1,5 +1,5 @@
 ### National AI Student Challenge 2022
-I'm Ritesh, I have developed an app AId to help young students to get timely help to overcome depression
+I'm Ritesh a Seconday 3 student, I have developed an app AId to help young students to get timely help to overcome depression
 
 I have used the AI Brick - `sgnlp`
 
