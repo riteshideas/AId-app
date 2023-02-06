@@ -1,0 +1,5 @@
+Model: senticgcn
+Batch Size: 16
+Random Seed: 776
+Acc: 0.5596974608319827
+F1: 0.3371047270384581
